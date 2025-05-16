@@ -14,3 +14,4 @@ imageio-ffmpeg
 numpy>=1.23.5,<2
 xfuser
 hf-xet
+gradio
